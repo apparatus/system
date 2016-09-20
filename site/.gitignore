@@ -15,7 +15,6 @@ npm-debug.log
 mochahelper.js
 .idea/
 .settings/
-dist
 .tmp
 .sass-cache
 options.mine.js
